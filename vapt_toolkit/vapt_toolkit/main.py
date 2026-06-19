@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 VAPT Toolkit - Vulnerability Assessment & Penetration Testing
-Author: Ashmit Kumar | CodeAlpha Internship
+Author: Ashmit Kumar | 
 """
 
 import sys
